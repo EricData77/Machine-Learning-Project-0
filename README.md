@@ -3,7 +3,7 @@ pip install -r requirements.txt
 ---
 Set up CI/CD Pipeline in heroku needs 3 information:
 1. HEROKU_EMAIL = ericdataguy77@gmail.com
-2. HEROKU_API_KEY = e808c6da-cd04-4b2e-953d-44b5fc25d8cb
+2. HEROKU_API_KEY = <>
 3. HEROKU_APP_NAME = ml-regression-eric-pipeline
 --- 
 Build Docker images
