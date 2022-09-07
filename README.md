@@ -24,4 +24,8 @@ docker ps
 To stop docker
 docker stop <container_id>
 
+Github workflow Documentation:
+https://docs.github.com/en/actions
 
+Run setup.py
+python setup.py install
